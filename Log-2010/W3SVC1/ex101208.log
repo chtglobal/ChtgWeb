@@ -1,0 +1,840 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 08:07:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 08:07:27 192.168.1.16 GET /vip.htm - 80 - 207.46.13.141 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 08:26:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 08:26:04 192.168.1.16 GET /CC_AccessNumbers.htm - 80 - 207.46.13.51 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-08 08:30:04 192.168.1.16 GET /index.html - 80 - 123.125.71.12 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 08:30:35 192.168.1.16 GET /index.html - 80 - 220.181.108.92 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 09:12:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 09:12:28 192.168.1.16 GET /Rejected-By-UrlScan ~/CC_Reseller&Rates.htm 80 - 207.46.195.224 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 09:29:52
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 09:29:52 192.168.1.16 GET /enterprise/dedicated-internet/index.html - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+2010-12-08 09:30:31 192.168.1.16 GET /index.html - 80 - 123.125.71.16 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 09:31:01 192.168.1.16 GET /index.html - 80 - 220.181.108.88 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 10:23:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 10:23:37 192.168.1.16 GET /robots.txt - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+2010-12-08 10:23:37 192.168.1.16 GET /img/favicon.ico - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-08 10:26:17 192.168.1.16 GET /robots.txt - 80 - 67.16.94.2 Gigabot/3.0+(http://www.gigablast.com/spider.html) 404 0 2
+2010-12-08 10:26:17 192.168.1.16 GET /index.html - 80 - 67.16.94.2 Gigabot/3.0+(http://www.gigablast.com/spider.html) 200 0 0
+2010-12-08 10:29:18 192.168.1.16 GET /index.html - 80 - 123.125.71.13 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 10:29:48 192.168.1.16 GET /index.html - 80 - 220.181.108.76 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 11:23:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 11:23:33 192.168.1.16 GET /carrier/data-wholesale/index.html - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 200 0 0
+2010-12-08 11:23:34 192.168.1.16 GET /css/carrier_setup.css - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 200 0 0
+2010-12-08 11:23:34 192.168.1.16 GET /css/carrier_text.css - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 200 0 0
+2010-12-08 11:23:36 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 200 0 0
+2010-12-08 11:23:36 192.168.1.16 GET /img/network_map_thumb.png - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 200 0 0
+2010-12-08 11:23:36 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 200 0 0
+2010-12-08 11:23:36 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 200 0 0
+2010-12-08 11:23:37 192.168.1.16 GET /carrier/data-wholesale/data-wholesale.jpg - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 200 0 0
+2010-12-08 11:23:39 192.168.1.16 GET /favicon.ico - 80 - 188.61.187.32 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+HPNTDF;+.NET4.0C) 404 0 2
+2010-12-08 11:29:45 192.168.1.16 GET /index.html - 80 - 209.85.226.82 Feedfetcher-Google;+(+http://www.google.com/feedfetcher.html;+feed-id=11480473408447364380) 200 0 0
+2010-12-08 11:29:45 192.168.1.16 GET /index.html - 80 - 123.125.71.13 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 11:30:16 192.168.1.16 GET /index.html - 80 - 220.181.108.76 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 11:54:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 11:54:49 192.168.1.16 GET /index.html - 80 - 124.115.0.103 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 12:11:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 12:11:11 192.168.1.16 GET /robots.txt - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2010-12-08 12:11:11 192.168.1.16 GET /about/news/world_journal_20101119.html - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 12:29:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 12:29:48 192.168.1.16 GET /index.html - 80 - 123.125.71.21 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 12:30:17 192.168.1.16 GET /index.html - 80 - 220.181.108.85 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 12:33:56 192.168.1.16 GET /robots.txt - 80 - 220.181.7.38 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 12:56:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 12:56:08 192.168.1.16 GET /index.html - 80 - 220.181.108.94 Baiduspider+(+http://www.baidu.com/search/spider.htm) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 13:42:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 13:42:42 192.168.1.16 GET /about/history.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-08 13:42:42 192.168.1.16 GET /css/about_setup.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 0 0
+2010-12-08 13:42:42 192.168.1.16 GET /css/about_text.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 14:29:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 14:29:18 192.168.1.16 GET /index.html - 80 - 123.125.71.34 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 14:29:46 192.168.1.16 GET /index.html - 80 - 220.181.108.85 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 14:30:22 192.168.1.16 GET /enterprise/integrated-voice-data/details.html - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:22 192.168.1.16 GET /enterprise/integrated-voice-data/net2vip-chart.jpg - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:24 192.168.1.16 GET /css/enterprise_setup.css - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:24 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:24 192.168.1.16 GET /css/enterprise_text.css - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:25 192.168.1.16 GET /enterprise/integrated-voice-data/integratedvoicedata.jpg - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:25 192.168.1.16 GET /img/network_map_thumb.png - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:25 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:25 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 128.221.197.57 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-08 14:30:46 192.168.1.16 GET /favicon.ico - 80 - 128.221.197.57 Mozilla/5.0+(compatible;+Google+Desktop/5.9.1005.12335;+http://desktop.google.com/) 404 0 2
+2010-12-08 14:44:28 192.168.1.16 GET /index.html - 80 - 209.20.69.196 Python-urllib/2.6 200 0 0
+2010-12-08 14:52:44 192.168.1.16 GET  /index.php p=32 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 15:08:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 15:08:06 192.168.1.16 GET /favicon.ico - 80 - 202.162.112.10 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 15:30:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 15:30:27 192.168.1.16 GET /index.html - 80 - 123.125.71.29 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 15:30:56 192.168.1.16 GET /index.html - 80 - 220.181.108.86 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 15:42:51 192.168.1.16 GET /CGN%20Network%20Locations.pdf - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+2010-12-08 15:57:45 192.168.1.16 GET /about/contact.html - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:45 192.168.1.16 GET /css/about_setup.css - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:45 192.168.1.16 GET /css/about_text.css - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:45 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 304 0 0
+2010-12-08 15:57:45 192.168.1.16 GET /about/contact.jpg - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:45 192.168.1.16 GET /img/linkedin_48.png - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:46 192.168.1.16 GET /img/facebook_48.png - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:46 192.168.1.16 GET /img/twitter_48.png - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:46 192.168.1.16 GET /img/youtube_48.png - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:46 192.168.1.16 GET /img/network_map_thumb.png - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:46 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:57:48 192.168.1.16 GET /favicon.ico - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 404 0 2
+2010-12-08 15:58:04 192.168.1.16 GET /about/history.html - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 15:58:04 192.168.1.16 GET /about/history.jpg - 80 - 24.16.122.112 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+MS-RTC+LM+8;+.NET4.0C;+.NET4.0E;+InfoPath.3) 200 0 0
+2010-12-08 16:08:03 192.168.1.16 GET /index.html - 80 - 66.249.85.2 Feedfetcher-Google;+(+http://www.google.com/feedfetcher.html;+feed-id=11480473408447364380) 200 0 0
+2010-12-08 16:16:19 192.168.1.16 GET  /index.php author=1 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-08 16:16:22 192.168.1.16 GET  /wp-content/themes/twentyten/style.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-08 16:16:26 192.168.1.16 POST  /wp-cron.php doing_wp_cron 80 - 192.168.1.222 WordPress/3.0.1;+http://www.chtglobal.com  200 0 64
+2010-12-08 16:16:51 192.168.1.16 GET  /index.php page_id=2 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 16:36:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 16:36:03 192.168.1.16 GET /index.html - 80 - 68.180.211.143 Mozilla/5.0+(SAMSUNG;+SAMSUNG-GT-S8500/S8500ZSJK2;+U;+Bada/1.0;+en-us)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Dolfin/2.0+Mobile+WVGA+SMM-MMS/1.2.0+OPN-B 200 0 0
+2010-12-08 16:36:03 192.168.1.16 GET /img/favicon.ico - 80 - 68.180.211.143 Mozilla/5.0+(SAMSUNG;+SAMSUNG-GT-S8500/S8500ZSJK2;+U;+Bada/1.0;+en-us)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Dolfin/2.0+Mobile+WVGA+SMM-MMS/1.2.0+OPN-B 200 0 0
+2010-12-08 16:42:20 192.168.1.16 GET /index.html - 80 - 123.125.71.28 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 16:43:04 192.168.1.16 GET /index.html - 80 - 220.181.108.93 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 17:08:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 17:08:09 192.168.1.16 GET /index.html - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:09 192.168.1.16 GET /css/main_text.css - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:09 192.168.1.16 GET /css/main_setup.css - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:11 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:13 192.168.1.16 GET /about/contact.html - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:13 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 64
+2010-12-08 17:08:13 192.168.1.16 GET /css/about_setup.css - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:13 192.168.1.16 GET /css/about_text.css - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:15 192.168.1.16 GET /img/linkedin_48.png - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:15 192.168.1.16 GET /img/facebook_48.png - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:15 192.168.1.16 GET /about/contact.jpg - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:15 192.168.1.16 GET /img/youtube_48.png - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:15 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:15 192.168.1.16 GET /img/network_map_thumb.png - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:15 192.168.1.16 GET /img/twitter_48.png - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 17:08:17 192.168.1.16 GET /favicon.ico - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2
+2010-12-08 17:08:38 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 206 0 0
+2010-12-08 17:09:47 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 206 0 0
+2010-12-08 17:09:48 192.168.1.16 GET /favicon.ico - 80 - 65.44.222.7 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 17:30:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 17:30:58 192.168.1.16 GET /index.html - 80 - 123.125.71.22 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 17:31:18 192.168.1.16 GET /index.html - 80 - 211.104.150.236 Mozilla/5.0+(compatible;+OpenfosBot/2.1;++http://www.openfos.com) 200 0 0
+2010-12-08 17:31:26 192.168.1.16 GET /index.html - 80 - 220.181.108.92 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 17:34:45 192.168.1.16 GET /enterprise/idc-hosting - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 301 0 0
+2010-12-08 17:43:59 192.168.1.16 GET /enterprise/dedicated-internet/index.html - 80 - 117.197.245.205 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 17:44:01 192.168.1.16 GET /css/enterprise_setup.css - 80 - 117.197.245.205 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 17:44:01 192.168.1.16 GET /css/enterprise_text.css - 80 - 117.197.245.205 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 17:44:01 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 117.197.245.205 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 17:44:01 192.168.1.16 GET /enterprise/dedicated-internet/dedicated-internet.jpg - 80 - 117.197.245.205 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 17:44:03 192.168.1.16 GET /img/network_map_thumb.png - 80 - 117.197.245.205 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 17:44:03 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 117.197.245.205 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 17:44:03 192.168.1.16 GET /img/favicon.ico - 80 - 117.197.245.205 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:15 192.168.1.16 GET /index.html - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:15 192.168.1.16 GET /css/main_setup.css - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:15 192.168.1.16 GET /css/main_text.css - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:16 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:19 192.168.1.16 GET /about/contact.html - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:19 192.168.1.16 GET /css/about_text.css - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:19 192.168.1.16 GET /css/about_setup.css - 80 - 212.140.250.54 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:21 192.168.1.16 GET /about/contact.jpg - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:21 192.168.1.16 GET /img/facebook_48.png - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:21 192.168.1.16 GET /img/twitter_48.png - 80 - 212.140.250.54 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:21 192.168.1.16 GET /img/linkedin_48.png - 80 - 212.140.250.54 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:21 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:21 192.168.1.16 GET /img/network_map_thumb.png - 80 - 212.140.250.54 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:21 192.168.1.16 GET /img/youtube_48.png - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 0
+2010-12-08 17:50:24 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 212.140.250.54 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 64
+2010-12-08 17:50:38 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:38 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:38 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:38 192.168.1.16 GET /img/favicon.ico - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:38 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:43 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 64
+2010-12-08 17:50:43 192.168.1.16 GET /residential/net-calling-card/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:43 192.168.1.16 GET /css/residential_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:43 192.168.1.16 GET /css/residential_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:43 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 62.189.169.182 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;+SV1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.30;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.1) 200 0 64
+2010-12-08 17:50:44 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:44 192.168.1.16 GET /residential/residential.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:44 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:44 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:46 192.168.1.16 GET /enterprise/long-distance-voice/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:46 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:46 192.168.1.16 GET /enterprise/long-distance-voice/longdistancevoice.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:46 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:50 192.168.1.16 GET /enterprise/long-distance-voice/details.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:50 192.168.1.16 GET /enterprise/long-distance-voice/ldv-diagram.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:50:50 192.168.1.16 GET /enterprise/long-distance-voice/ldv-price.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:51:06 192.168.1.16 GET /enterprise/long-distance-voice/Rate%20Sheet_LD070109.pdf - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:51:06 192.168.1.16 GET /enterprise/long-distance-voice/Rate%20Sheet_LD070109.pdf - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 206 0 0
+2010-12-08 17:51:06 192.168.1.16 GET /favicon.ico - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 404 0 2
+2010-12-08 17:51:06 192.168.1.16 GET /favicon.ico - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 404 0 2
+2010-12-08 17:51:09 192.168.1.16 GET /favicon.ico - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 404 0 2
+2010-12-08 17:51:09 192.168.1.16 GET /favicon.ico - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 404 0 2
+2010-12-08 17:51:09 192.168.1.16 GET /cht-global-infrastructure.pdf - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 17:51:09 192.168.1.16 GET /cht-global-infrastructure.pdf - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 206 0 0
+2010-12-08 17:51:49 192.168.1.16 GET /robots.txt - 80 - 207.46.199.40 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-08 17:56:00 192.168.1.16 GET /intlaudioconf_rate.htm - 80 - 207.46.199.40 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-08 18:06:54 192.168.1.16 GET /about/careers.html - 80 - 69.63.189.244 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) 206 0 0
+2010-12-08 18:06:55 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 65.113.40.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.2)+Gecko/20090729+Firefox/3.5.2 200 0 0
+2010-12-08 18:06:55 192.168.1.16 GET /about.jpg - 80 - 65.113.40.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.2)+Gecko/20090729+Firefox/3.5.2 404 0 2
+2010-12-08 18:10:29 192.168.1.16 GET /index.html - 80 - 207.46.204.187 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0
+2010-12-08 18:14:21 192.168.1.16 GET /corporate/job.asp - 80 - 75.101.224.228 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.1.3)+Gecko/20090824+Firefox/3.5.3+(LinkUp) 404 0 3
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 18:29:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 18:29:51 192.168.1.16 GET /index.html - 80 - 123.125.71.14 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 18:30:20 192.168.1.16 GET /index.html - 80 - 220.181.108.89 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 19:09:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 19:09:21 192.168.1.16 GET /robots.txt - 80 - 88.131.106.22 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+Speedy+Spider+(http://www.entireweb.com/about/search_tech/speedy_spider/) 404 0 2
+2010-12-08 19:09:26 192.168.1.16 GET /intlaudioconf_rate.htm - 80 - 88.131.106.22 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+Speedy+Spider+(http://www.entireweb.com/about/search_tech/speedy_spider/) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 19:29:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 19:29:46 192.168.1.16 GET /index.html - 80 - 123.125.71.14 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 19:30:13 192.168.1.16 GET /index.html - 80 - 220.181.108.94 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-08 19:35:42 192.168.1.16 GET /about/careers.html - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:42 192.168.1.16 GET /css/about_setup.css - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:42 192.168.1.16 GET /css/about_text.css - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:42 192.168.1.16 GET /css/about_setup.css - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:43 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:43 192.168.1.16 GET /about/about.jpg - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:43 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:43 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:43 192.168.1.16 GET /img/network_map_thumb.png - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 200 0 0
+2010-12-08 19:35:45 192.168.1.16 GET /favicon.ico - 80 - 67.188.138.181 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6.6;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30618;+.NET+CLR+3.5.30729;+InfoPath.1) 404 0 2
+2010-12-08 19:37:21 192.168.1.16 GET /index.html - 80 - 99.37.144.185 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-08 19:37:21 192.168.1.16 GET /index.html - 80 - 99.37.144.185 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 19:37:21 192.168.1.16 GET /css/main_setup.css - 80 - 99.37.144.185 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-08 19:37:21 192.168.1.16 GET /css/main_text.css - 80 - 99.37.144.185 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-08 19:37:21 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 99.37.144.185 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-08 19:37:21 192.168.1.16 GET /css/main_setup.css - 80 - 99.37.144.185 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 19:37:21 192.168.1.16 GET /css/main_text.css - 80 - 99.37.144.185 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 19:37:22 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 99.37.144.185 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 19:37:25 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 99.37.144.185 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-08 19:37:28 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 99.37.144.185 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-08 19:37:30 192.168.1.16 GET /favicon.ico - 80 - 99.37.144.185 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 404 0 2
+2010-12-08 19:37:30 192.168.1.16 GET /img/favicon.ico - 80 - 99.37.144.185 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-08 19:37:30 192.168.1.16 GET /favicon.ico - 80 - 99.37.144.185 Mozilla/5.0+(compatible;+Google+Desktop/5.9.1005.12335;+http://desktop.google.com/) 404 0 2
+2010-12-08 19:51:34 192.168.1.16 GET /index.html - 80 - 124.115.0.104 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0
+2010-12-08 19:55:56 192.168.1.16 GET /robots.txt - 80 - 65.52.110.64 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-08 20:08:33 192.168.1.16 GET /index.htm - 80 - 65.52.110.64 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 20:25:55
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 20:25:55 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:25:55 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:25:55 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:25:55 192.168.1.16 GET /img/favicon.ico - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:25:55 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:25:58 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:07 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:07 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:07 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:07 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:07 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:07 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:07 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:19 192.168.1.16 GET /enterprise/net2mail-email-hosting/details.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:19 192.168.1.16 GET /enterprise/net2mail-email-hosting/net2mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-08 20:26:19 192.168.1.16 GET /enterprise/net2mail-email-hosting/net2mail-interface.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 21:02:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 21:02:23 192.168.1.16 GET /about/careers.html - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0
+2010-12-08 21:02:23 192.168.1.16 GET /css/about_setup.css - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0
+2010-12-08 21:02:23 192.168.1.16 GET /css/about_text.css - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0
+2010-12-08 21:02:23 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0
+2010-12-08 21:02:23 192.168.1.16 GET /about/about.jpg - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0
+2010-12-08 21:02:24 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0
+2010-12-08 21:02:24 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0
+2010-12-08 21:02:24 192.168.1.16 GET /img/network_map_thumb.png - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 200 0 0
+2010-12-08 21:02:26 192.168.1.16 GET /favicon.ico - 80 - 99.92.211.92 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+WOW64;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.5.21022;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30618) 404 0 2
+2010-12-08 21:03:12 192.168.1.16 GET /about/news.html - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 22:33:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 22:33:43 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:43 192.168.1.16 GET /img/favicon.ico - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:43 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:43 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:43 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:46 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:48 192.168.1.16 GET /about/contact.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:48 192.168.1.16 GET /css/about_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:48 192.168.1.16 GET /css/about_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:48 192.168.1.16 GET /about/contact.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:48 192.168.1.16 GET /img/linkedin_48.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:48 192.168.1.16 GET /img/facebook_48.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:48 192.168.1.16 GET /img/youtube_48.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:48 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:49 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:33:51 192.168.1.16 GET /img/twitter_48.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:34:02 192.168.1.16 GET /about/careers.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:34:02 192.168.1.16 GET /about/about.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:34:02 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-08 22:39:29 192.168.1.16 GET /robots.txt - 80 - 207.46.199.185 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-08 23:21:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-08 23:21:30 192.168.1.16 GET /index.html - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:30 192.168.1.16 GET /css/main_setup.css - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:30 192.168.1.16 GET /css/main_text.css - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:30 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:34 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:35 192.168.1.16 GET /favicon.ico - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 404 0 2
+2010-12-08 23:21:43 192.168.1.16 GET /enterprise/global-ez-vpn/index.html - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:43 192.168.1.16 GET /css/enterprise_setup.css - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:43 192.168.1.16 GET /css/enterprise_setup.css - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:43 192.168.1.16 GET /css/enterprise_text.css - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:44 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:44 192.168.1.16 GET /img/network_map_thumb.png - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:44 192.168.1.16 GET /enterprise/global-ez-vpn/ez-vpn-diagram.jpg - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:44 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:44 192.168.1.16 GET /enterprise/global-ez-vpn/ez-vpn.jpg - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:21:47 192.168.1.16 GET /favicon.ico - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 404 0 2
+2010-12-08 23:22:14 192.168.1.16 GET /enterprise/global-ethernet/index.html - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:22:14 192.168.1.16 GET /enterprise/global-ethernet/global-ethernet.jpg - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:22:23 192.168.1.16 GET /enterprise/cloud-computing/index.html - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:22:23 192.168.1.16 GET /enterprise/cloud-computing/cloud-computing.jpg - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:23:27 192.168.1.16 GET /enterprise/index.html - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:23:27 192.168.1.16 GET /enterprise/enterprise.jpg - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:23:33 192.168.1.16 GET /cht-global-infrastructure.pdf - 80 - 64.58.173.11 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+InfoPath.2;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-08 23:33:12 192.168.1.16 GET /robots.txt - 80 - 95.108.128.241 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 404 0 2
+2010-12-08 23:41:55 192.168.1.16 GET /robots.txt - 80 - 65.52.110.55 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-08 23:42:42 192.168.1.16 GET /about/careers.html - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0
+2010-12-08 23:42:42 192.168.1.16 GET /css/about_setup.css - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0
+2010-12-08 23:42:42 192.168.1.16 GET /css/about_text.css - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0
+2010-12-08 23:42:42 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0
+2010-12-08 23:42:42 192.168.1.16 GET /about/about.jpg - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0
+2010-12-08 23:42:42 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0
+2010-12-08 23:42:42 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0
+2010-12-08 23:42:43 192.168.1.16 GET /img/network_map_thumb.png - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 200 0 0
+2010-12-08 23:42:45 192.168.1.16 GET /favicon.ico - 80 - 146.74.216.98 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+InfoPath.2;+OfficeLiveConnector.1.3;+OfficeLivePatch.0.0) 404 0 2
+2010-12-08 23:43:38 192.168.1.16 GET /CGN%20Network%20Locations.pdf - 80 - 65.52.110.55 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-08 23:44:40 192.168.1.16 GET /robots.txt - 80 - 207.46.199.198 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 00:13:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 00:13:05 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:05 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:05 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:05 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:08 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:09 192.168.1.16 GET /favicon.ico - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 404 0 2
+2010-12-09 00:13:20 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:20 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:20 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:20 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:23 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:13:25 192.168.1.16 GET /favicon.ico - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 00:15:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 00:15:20 192.168.1.16 GET /favicon.ico - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 404 0 2
+2010-12-09 00:16:13 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:16:13 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:16:13 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:16:13 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:16:16 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 00:34:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 00:34:29 192.168.1.16 GET /robots.txt - 80 - 207.46.204.188 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 00:36:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 00:36:47 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:36:47 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:36:47 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:36:47 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:36:50 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:36:52 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 304 0 0
+2010-12-09 00:36:52 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 304 0 0
+2010-12-09 00:36:52 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 304 0 0
+2010-12-09 00:36:52 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 304 0 0
+2010-12-09 00:36:52 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 304 0 0
+2010-12-09 00:37:00 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:37:00 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:37:00 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:37:00 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:37:03 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:37:04 192.168.1.16 GET /favicon.ico - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 00:40:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 00:40:37 192.168.1.16 GET /audioconf.htm - 80 - 207.46.204.188 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-09 00:48:04 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:48:04 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:48:04 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:48:04 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:48:04 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:48:04 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:48:04 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.6;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+.NET+CLR+1.1.4322;+.NET4.0C;+.NET4.0E) 200 0 0
+2010-12-09 00:52:18 192.168.1.16 GET /robots.txt - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+2010-12-09 00:52:26 192.168.1.16 GET  /xmlrpc.php rsd 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-09 00:52:27 192.168.1.16 POST  /wp-cron.php doing_wp_cron 80 - 192.168.1.222 WordPress/3.0.1;+http://www.chtglobal.com  200 0 64
+2010-12-09 00:54:45 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:54:45 192.168.1.16 GET /css/main_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:54:45 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:54:45 192.168.1.16 GET /img/favicon.ico - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:54:48 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:54:48 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:54:48 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:54:48 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:54:50 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:58:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/details.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:58:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/net2mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:58:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/net2mail-interface.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:58:48 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:59:29 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:59:29 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:29 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:29 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:29 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:59:29 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:59:29 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:59:29 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:59:52 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 00:59:52 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:52 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:52 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:52 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:52 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:52 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 00:59:52 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:00:27 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:00:27 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:00:27 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:00:27 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:00:27 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:00:27 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:00:27 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:00:27 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:01:04 192.168.1.16 GET /enterprise/net2mail-email-hosting/details.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:02:19 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:02:19 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:02:19 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:02:19 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:02:19 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:02:19 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:02:19 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:02:19 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:02:28 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:04:35 192.168.1.16 GET /phonecard.htm - 80 - 65.52.110.54 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-09 01:05:45 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:05:45 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:05:45 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:05:45 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:05:45 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:05:45 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:05:45 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:05:45 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:11 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:28 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:37 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:44 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:06:54 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:07:26 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:06 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:09:25 192.168.1.16 GET /about/contact.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:25 192.168.1.16 GET /css/about_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:25 192.168.1.16 GET /css/about_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:25 192.168.1.16 GET /about/contact.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:25 192.168.1.16 GET /img/linkedin_48.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:25 192.168.1.16 GET /img/twitter_48.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:25 192.168.1.16 GET /img/youtube_48.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:25 192.168.1.16 GET /img/facebook_48.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:09:48 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:10 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:17 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:29 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:38 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:10:44 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:17 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:11:38 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:04 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:29 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:43 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:12:57 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /enterprise/net2mail-email-hosting/Net2Mail-email-hosting.jpg - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /enterprise/net2mail-email-hosting/running-man.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:13:13 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 304 0 0
+2010-12-09 01:15:16 192.168.1.16 GET /index.html - 80 - 210.71.216.252 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+GTB6.5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+MS-RTC+LM+8) 200 0 0
+2010-12-09 01:15:23 192.168.1.16 GET /index.html - 80 - 210.71.216.252 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+GTB6.5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+MS-RTC+LM+8) 200 0 0
+2010-12-09 01:16:03 192.168.1.16 HEAD /index.html - 80 - 66.163.172.45 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+GTB6.5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+MS-RTC+LM+8) 200 0 0
+2010-12-09 01:16:03 192.168.1.16 GET /index.html - 80 - 66.163.172.45 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+GTB6.5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+MS-RTC+LM+8)+(via+babelfish.yahoo.com) 200 0 0
+2010-12-09 01:16:07 192.168.1.16 HEAD /index.html - 80 - 66.163.172.45 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+GTB6.5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+MS-RTC+LM+8) 200 0 0
+2010-12-09 01:16:07 192.168.1.16 GET /index.html - 80 - 66.163.172.45 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+GTB6.5;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+MS-RTC+LM+8)+(via+babelfish.yahoo.com) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 01:38:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 01:38:02 192.168.1.16 GET /robots.txt - 80 - 119.63.198.41 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 02:02:19
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 02:02:19 192.168.1.16 GET /robots.txt - 80 - 61.247.204.38 Yeti/1.0+(NHN+Corp.;+http://help.naver.com/robots/) 404 0 2
+2010-12-09 02:02:19 192.168.1.16 GET /index.html - 80 - 61.247.204.38 Yeti/1.0+(NHN+Corp.;+http://help.naver.com/robots/) 200 0 0
+2010-12-09 02:02:30 192.168.1.16 GET /css/main_setup.css - 80 - 61.247.204.45 Yeti/1.0+(NHN+Corp.;+http://help.naver.com/robots/) 200 0 0
+2010-12-09 02:02:40 192.168.1.16 GET /robots.txt - 80 - 65.52.110.53 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-09 02:02:59 192.168.1.16 GET   p=26 80 - 64.246.36.135 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 301 0 0
+2010-12-09 02:03:02 192.168.1.16 GET  /index.php p=26 80 - 64.246.36.135 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:10 192.168.1.16 POST  /wp-comments-post.php - 80 - 64.246.36.135 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:10 192.168.1.16 GET  /wp-comments-post.php - 80 - 64.246.36.135 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 405 0 0
+2010-12-09 02:03:10 192.168.1.16 GET  /wp-comments-post.php - 80 - 220.255.1.21 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 405 0 0
+2010-12-09 02:03:21 192.168.1.16 GET  /wp-comments-post.php - 80 - 111.1.32.85 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 405 0 0
+2010-12-09 02:03:25 192.168.1.16 GET   p=26 80 - 111.1.32.89 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 301 0 0
+2010-12-09 02:03:29 192.168.1.16 GET  /index.php p=26 80 - 111.1.32.89 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:31 192.168.1.16 GET /index.html - 80 - 111.1.32.85 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:37 192.168.1.16 GET  /index.php - 80 - 111.1.32.88 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:39 192.168.1.16 GET  /index.php p=26 80 - 111.1.32.89 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:42 192.168.1.16 GET  /index.php page_id=2 80 - 111.1.32.85 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:47 192.168.1.16 GET  /index.php p=1 80 - 111.1.32.84 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:49 192.168.1.16 GET  /index.php p=32 80 - 111.1.32.89 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:52 192.168.1.16 GET  /index.php author=1 80 - 111.1.32.85 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:03:55 192.168.1.16 GET  /index.php cat=1 80 - 111.1.32.85 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:04:00 192.168.1.16 GET  /index.php m=201011 80 - 111.1.32.85 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:04:07 192.168.1.16 GET  /wp-login.php - 80 - 111.1.32.83 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:04:09 192.168.1.16 GET  /index.php feed=rss2 80 - 111.1.32.89 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:04:11 192.168.1.16 GET  /index.php feed=comments-rss2 80 - 111.1.32.83 Mozilla/5.0+(Windows+NT+5.1;+U;+en)+Opera+8.01 200 0 0
+2010-12-09 02:11:17 192.168.1.16 GET /satellite.htm - 80 - 65.52.110.53 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-09 02:24:48 192.168.1.16 GET /enterprise/toll-free-conferencing/CHT%20Intl%20TF%20Audio%20Conf_User%20Guide.pdf - 80 - 66.245.196.51 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.6;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C;+BRI/1) 200 0 0
+2010-12-09 02:31:19 192.168.1.16 GET /index.html - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-09 02:31:19 192.168.1.16 GET /css/main_text.css - 80 - 192.168.1.222 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.552.215+Safari/534.10 200 0 0
+2010-12-09 02:41:04 192.168.1.16 GET /robots.txt - 80 - 67.16.94.2 Gigabot/3.0+(http://www.gigablast.com/spider.html) 404 0 2
+2010-12-09 02:41:04 192.168.1.16 GET /index_files/Page423.htm - 80 - 67.16.94.2 Gigabot/3.0+(http://www.gigablast.com/spider.html) 404 0 3
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 03:12:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 03:12:44 192.168.1.16 GET   p=32 80 - 170.224.207.15 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 301 0 0
+2010-12-09 03:12:46 192.168.1.16 GET  /index.php p=32 80 - 170.224.207.15 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:12:58 192.168.1.16 POST  /wp-comments-post.php - 80 - 170.224.207.15 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:12:58 192.168.1.16 GET  /wp-comments-post.php - 80 - 170.224.207.15 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 405 0 0
+2010-12-09 03:13:02 192.168.1.16 GET  /wp-comments-post.php - 80 - 212.71.32.94 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 405 0 0
+2010-12-09 03:13:03 192.168.1.16 GET  /wp-comments-post.php - 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 405 0 0
+2010-12-09 03:13:03 192.168.1.16 GET   p=32 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 301 0 0
+2010-12-09 03:13:04 192.168.1.16 GET  /index.php p=32 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:04 192.168.1.16 GET /index.html - 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:05 192.168.1.16 GET  /index.php - 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:05 192.168.1.16 GET  /index.php p=32 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:07 192.168.1.16 GET  /index.php page_id=2 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:07 192.168.1.16 GET  /index.php p=26 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:09 192.168.1.16 GET  /index.php author=1 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:09 192.168.1.16 GET /enterprise/integrated-voice-data/index.html - 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:10 192.168.1.16 GET  /index.php cat=1 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:10 192.168.1.16 GET  /index.php p=1 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:12 192.168.1.16 GET  /index.php m=201011 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:12 192.168.1.16 GET  /wp-login.php - 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:13 192.168.1.16 GET  /index.php feed=rss2 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+2010-12-09 03:13:13 192.168.1.16 GET  /index.php feed=comments-rss2 80 - 12.168.203.132 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.0.10)+Gecko/2009042316+Firefox/3.0.10 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 03:35:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 03:35:14 192.168.1.16 GET /index.html - 80 - 211.104.150.236 Mozilla/5.0+(compatible;+OpenfosBot/2.1;++http://www.openfos.com) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 04:25:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 04:25:54 192.168.1.16 GET  /index.php feed=rss2&p=32 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-09 04:30:18 192.168.1.16 GET /index.html - 80 - 124.115.0.103 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0
+2010-12-09 04:44:08 192.168.1.16 GET /index.html - 80 - 95.108.128.241 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 05:01:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 05:01:58 192.168.1.16 GET /robots.txt - 80 - 207.46.199.39 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-09 05:05:16 192.168.1.16 GET /CHT%20Intl%20TF%20Audio%20Conf_User%20Guide.pdf - 80 - 207.46.199.39 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-09 05:05:18 192.168.1.16 GET /index.html - 80 - 207.46.195.202 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4325;++.NET+CLR+2.0.50727;++.NET+CLR+3.0.30729) 200 0 0
+2010-12-09 05:05:20 192.168.1.16 GET /css/main_setup.css - 80 - 207.46.195.202 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4325;++.NET+CLR+2.0.50727;++.NET+CLR+3.0.30729) 200 0 0
+2010-12-09 05:05:22 192.168.1.16 GET /css/main_text.css - 80 - 207.46.195.202 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.2;++SLCC1;++.NET+CLR+1.1.4325;++.NET+CLR+2.0.50727;++.NET+CLR+3.0.30729) 200 0 0
+2010-12-09 05:07:21 192.168.1.16 GET  /wp-includes/wlwmanifest.xml - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 06:11:32
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 06:11:32 192.168.1.16 GET  /index.php m=201011 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-09 06:11:34 192.168.1.16 GET  /wp-content/themes/twentyten/style.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-09 06:15:23 192.168.1.16 GET /index.html - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:23 192.168.1.16 GET /css/main_setup.css - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:23 192.168.1.16 GET /css/main_text.css - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:23 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:27 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:29 192.168.1.16 GET /img/favicon.ico - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:41 192.168.1.16 GET /carrier/data-wholesale/index.html - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:41 192.168.1.16 GET /css/carrier_setup.css - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:41 192.168.1.16 GET /css/carrier_text.css - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:41 192.168.1.16 GET /carrier/data-wholesale/data-wholesale.jpg - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:42 192.168.1.16 GET /img/network_map_thumb.png - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:42 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:42 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:47 192.168.1.16 GET /enterprise/dedicated-internet/index.html - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:47 192.168.1.16 GET /css/enterprise_setup.css - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:47 192.168.1.16 GET /css/enterprise_text.css - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:15:47 192.168.1.16 GET /enterprise/dedicated-internet/dedicated-internet.jpg - 80 - 114.111.62.248 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.44+Safari/534.7 200 0 0
+2010-12-09 06:17:09 192.168.1.16 GET  /index.php p=1 80 - 89.212.200.113 Mozilla/4.0+(compatible;+MSIE+6.0;+MSIE+5.5;+Windows+NT+4.0)+Opera+7.0+[en] 200 0 0
+2010-12-09 06:23:10 192.168.1.16 GET /robots.txt - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2010-12-09 06:23:10 192.168.1.16 GET /enterprise/integrated-voice-data/CHTG_Net2VIP.pdf - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+2010-12-09 06:25:00 192.168.1.16 GET /index.html - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:00 192.168.1.16 GET /css/main_setup.css - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:00 192.168.1.16 GET /css/main_text.css - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:02 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:10 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:15 192.168.1.16 GET /favicon.ico - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 404 0 2
+2010-12-09 06:25:32 192.168.1.16 GET /about/careers.html - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:32 192.168.1.16 GET /css/about_text.css - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:32 192.168.1.16 GET /css/about_setup.css - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:32 192.168.1.16 GET /img/network_map_thumb.png - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:32 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:33 192.168.1.16 GET /about/about.jpg - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:33 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 200 0 0
+2010-12-09 06:25:36 192.168.1.16 GET /favicon.ico - 80 - 75.18.167.235 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+GTB6;+SLCC1;+.NET+CLR+2.0.50727;+MDDS;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+.NET4.0C) 404 0 2
+2010-12-09 06:30:27 192.168.1.16 GET /enterprise/integrated-voice-data/bandwidth-allocation.jpg - 80 - 64.233.172.17 Mozilla/5.0+(en-us)+AppleWebKit/525.13+(KHTML,+like+Gecko;+Google+Web+Preview)+Version/3.1+Safari/525.13 200 0 0
+2010-12-09 06:42:58 192.168.1.16 GET /Rejected-By-UrlScan ~/CC_Reseller&Rates.htm 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+2010-12-09 06:56:53 192.168.1.16 GET /about/index.html - 80 - 95.108.128.241 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) 200 0 0
+2010-12-09 06:58:18 192.168.1.16 GET /index.html - 80 - 74.125.114.82 Feedfetcher-Google;+(+http://www.google.com/feedfetcher.html;+feed-id=11480473408447364380) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-09 07:50:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-09 07:50:09 192.168.1.16 GET /iplc.htm - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+2010-12-09 07:52:29 192.168.1.16 GET /index.html - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:29 192.168.1.16 GET /css/main_setup.css - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:29 192.168.1.16 GET /css/main_text.css - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:29 192.168.1.16 GET /img/favicon.ico - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:31 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:35 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:51 192.168.1.16 GET /index.html - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:53 192.168.1.16 GET /enterprise/index.html - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:53 192.168.1.16 GET /css/enterprise_text.css - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:53 192.168.1.16 GET /css/enterprise_setup.css - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:54 192.168.1.16 GET /enterprise/enterprise.jpg - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:54 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:52:54 192.168.1.16 GET /img/network_map_thumb.png - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:05 192.168.1.16 GET /carrier/data-wholesale/index.html - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:05 192.168.1.16 GET /css/carrier_setup.css - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:05 192.168.1.16 GET /css/carrier_text.css - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:07 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:08 192.168.1.16 GET /carrier/data-wholesale/data-wholesale.jpg - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:17 192.168.1.16 GET /about/history.html - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:17 192.168.1.16 GET /css/about_setup.css - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:17 192.168.1.16 GET /css/about_text.css - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:19 192.168.1.16 GET /about/history.jpg - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:35 192.168.1.16 GET /about/contact.html - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:35 192.168.1.16 GET /about/contact.jpg - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:35 192.168.1.16 GET /img/linkedin_48.png - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:35 192.168.1.16 GET /img/facebook_48.png - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:36 192.168.1.16 GET /img/twitter_48.png - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0
+2010-12-09 07:53:36 192.168.1.16 GET /img/youtube_48.png - 80 - 210.71.216.251 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+InfoPath.1;+MS-RTC+LM+8;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729) 200 0 0

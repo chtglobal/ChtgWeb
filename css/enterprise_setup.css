@@ -1,0 +1,162 @@
+img.center {   display: block;   margin-left: auto;   margin-right: auto; }
+
+/* Hide Image Borders */
+a img { border:none; }
+
+/* NON-HEADER */
+*{padding:0; margin:0;}
+ body {font-size:50%; background-color:rgb(255,255,255); font-family:verdana,arial,sans-serif;} /*Font-size: 1.0em = 10px when browser default size is 16px*/
+.page-container {width:954px; margin:0px auto; margin-top:10px; margin-bottom:10px; font-size:1.0em;}
+.main {clear:both; width:954px; padding-bottom:30px; border-left:solid 0px rgb(175,175,175); border-right:solid 0px rgb(175,175,175); top left repeat-y;}
+.main-navigation {display:inline /*Fix IE floating margin bug*/; float:left; width: 180px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/; background:rgb(245,245,245);}
+.main-content {display:inline; /*Fix IE floating margin bug*/; float:left; width:550px; margin:0 0 0 20px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+.main-subcontent {display:inline /*Fix IE floating margin bug*/; float:right; width:183px; margin:0 0 0 0; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+.footer {clear:both; width:954px; padding:1.0em 0 1.0em 0; border-top:solid 1px rgb(175,175,175); border-left:solid 0px rgb(175,175,175); border-right:solid 0px rgb(175,175,175); border-bottom:solid 0px rgb(175,175,175); background:none; font-size:1.0em; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+
+/* HEADER */
+.header {width:960px;}
+.header-top {width:960px; height:90px; border-top:solid 0px rgb(175,175,175); border-left:solid 0px rgb(175,175,175); border-right:solid 0px rgb(175,175,175); margin-top:10px; background:none); overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+.header-bottom {width:954px; border-bottom:solid 1px rgb(175,175,175); border-left:solid 1px rgb(175,175,175); border-right:solid 1px rgb(175,175,175); border-top:solid 1px rgb(175,175,175);}
+
+.header .round-border-topleft {width:25px; height:25px; position:absolute; z-index:100; background:url(../img/bg_head_corner_topleft_25px.gif) no-repeat; margin-top:-3px; margin-left:-3px;}
+.header .round-border-topright {width:25px; height:25px; position:absolute; z-index:100; background:url(../img/bg_head_corner_topright_25px.gif) no-repeat; margin-top:-3px; margin-left:932px;}
+
+/*************/
+/*  2. HEAD  */
+/*************/
+.sitelogo {width:200px; height:51px; position:absolute; z-index:1; margin:18px 0 0 15px; background:url(../img/cht_global_logo.jpg);}
+.sitename {width:300px; height:45px; position:absolute; z-index:1; margin:23px 0 0 75px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+.sitename h1 {font-weight:normal; font-size:240%;}
+.sitename h2 {margin:-2px 0 0 0; color:rgb(125,125,125); font-weight:normal; font-size:120%;}
+.sitename a{text-decoration:none; color:rgb(125,125,125);}
+.sitename a:hover {text-decoration:none; color:rgb(125,125,125);}
+
+
+.nav0 {width:350px; position:absolute; z-index:3; margin:20px 0 0 0; margin-left:610px !important /*Non-IE6*/; margin-left:613px /*IE6*/;}
+.nav0 ul {float:right; padding:0 20px 0 0;}
+.nav0 li {display:inline; list-style:none; font-weight:normal; color:rgb(125,125,125); font-size:130%}
+.nav0 li a {padding:0px 0px 0 5px; list-style:none; font-weight:normal; color:rgb(125,125,125); font-size:130%}
+.nav0 a:hover {text-decoration:none;}
+.nav0 a img {height:25px; width:25px; border:none;}
+
+.navz {width:350px; position:absolute; z-index:1; margin:25px 0 0 0; margin-left:400px !important /*Non-IE6*/; margin-left:400px /*IE6*/;}
+.navz ul {float:right; padding:0 20px 0 0;}
+.navz li {display:inline; list-style:none; font-weight:normal; color:rgb(125,125,125); font-size:130%}
+.navz li a {padding:0px 0px 0 5px; list-style:none; font-weight:normal; color:rgb(125,125,125); font-size:130%}
+.navz a:hover {text-decoration:none;}
+.navz a img {height:25px; width:25px; border:none;}
+
+
+.nav1 {width:350px; position:absolute; z-index:1; margin:55px 0 0 610px;list-style-type: none;}
+.nav1 h1 {font-weight:normal; font-size:240%;}
+.nav1 h2 {float:right; margin:-2px 0 0 0; color:rgb(125,125,125); font-weight:normal; font-style: italic; font-size:120%;}
+.nav1 ul {float:right; padding:0 15px 0 0; font-weight:normal;}	
+.nav1 li {display:inline; list-style:none;}
+.nav1 li a {display:block; float:left; padding:2px 5px 2px 5px; color:rgb(125,125,125); text-decoration:none; font-size:110%;}
+.nav1 a:hover {text-decoration:none; color:rgb(50,50,50);}
+
+/*Drop-down menu*/
+.top-nav {white-space:nowrap /*IE hack*/; float:left; width:954px; background:rgb(225,225,225); color:rgb(100,100,100); font-size:130%;} /*Color navigation bar normal mode*/
+.top-nav ul {list-style-type:none;}
+.top-nav ul li {float:left; z-index:auto !important /*Non-IE6*/; z-index:1000 /*IE6*/; border-right:solid 1px rgb(175,175,175);}
+.top-nav ul li a {float:none !important /*Non-IE6*/; float:left /*IE-6*/; display:block; height:2.1em; line-height:2.1em; padding:0 16px 0 16px; text-decoration:none; font-weight:normal; color: rgb(100,100,100);}
+.top-nav ul li ul {display:none; border:none;}
+
+/*Non-IE6 hovering*/
+.top-nav ul li:hover {position:relative;} /*Sylvain IE hack*/
+.top-nav ul li:hover a {background-color:rgb(215,215,215); text-decoration:none;} /*Color main cells hovering mode*/
+.top-nav ul li:hover ul {display:block; width:10.0em; position:absolute; z-index:999; top:2.0em; margin-top:0.1em; left:0;}
+.top-nav ul li:hover ul li a {white-space:normal; display:block; width:10.0em; height:auto; line-height:1.3em; margin-left:-1px; padding:4px 16px 4px 16px; border-left:solid 1px rgb(175,175,175); border-bottom: solid 1px rgb(175,175,175); background-color:rgb(240,240,240); font-weight:normal; color:rgb(100,100,100);} /*Color subcells normal mode*/
+.top-nav ul li:hover ul li a:hover {background-color:rgb(215,215,215); text-decoration:none;} /*Color subcells hovering mode*/
+
+/*IE6 hovering*/
+.top-nav table {position:absolute; top:0; left:-1px; border-collapse:collapse;}
+.top-nav ul li a:hover {position:relative /*Sylvain IE hack*/; z-index:1000 /*Sylvain IE hack*/; background-color:rgb(215,215,215); text-decoration:none;} /*Color main cells hovering mode*/
+.top-nav ul li a:hover ul {display:block; width:10.0em; position:absolute; z-index:999; top:2.1em; t\op:2.0em; left:0; marg\in-top:0.1em;}
+.top-nav ul li a:hover ul li a {white-space:normal; display:block; w\idth:10.0em; height:1px; line-height:1.3em; padding:4px 16px 4px 16px; border-left:solid 1px rgb(175,175,175); border-bottom: solid 1px rgb(175,175,175); background-color:rgb(240,240,240); font-weight:normal; color:rgb(50,50,50);} /*Color subcells normal mode*/
+.top-nav ul li a:hover ul li a:hover {background-color:rgb(215,215,215); text-decoration:none;} /*Color subcells hovering mode*/
+
+.gap {width:960px; height:20px; margin-top:10px; background:none); overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
+
+
+
+
+/******************/
+/*  MAIN SECTION  */
+/******************/
+
+/* MAIN NAVIGATION */
+.main-navigation .round-border-topright {width:10px; height:10px; position:absolute; z-index:100; margin:0 0 0 190px; background:url(../img/bg_corner_topright.gif) no-repeat;}
+
+.map {width:180px; height:100px; position:absolute; z-index:1; margin:0px 0px 0 0; background:url(../img/network_map_thumb.png);}
+#cht-global-network {display:block; width:180px; height:100px; position:absolute; z-index:1; margin:0px 0px 0 0;}
+
+/* MAIN CONTENT */
+
+.column1-unit {width:550px; margin-top: 120px; margin-bottom:10px !important /*Non-IE6*/; margin-bottom:5px /*IE6*/;}
+
+.main-image {width:550px; height:100px; position:relative; height:0px; z-index:1; margin:0px 0px 0 0; border-style:none; } /* {width:550px; height:100px; position:absolute; z-index:1; margin:0px 0px 0 0; border-style:none; background:url(../img/global_mpls.jpg);} */
+.main .main-image img { margin: -1px 0 0 -1px; border:none; }
+
+.column2-unit-left {float:left; width:225px; margin-bottom:10px !important /*Non-IE6*/; margin-bottom:5px /*IE6*/;}
+.column2-unit-right {float:right; width:225px; margin-bottom:10px !important /*Non-IE6*/; margin-bottom:5px /*IE6*/;}
+.column3-unit-left {float:left; width:137px; margin-bottom:10px !important /*Non-IE6*/; margin-bottom:5px /*IE6*/;}
+.column3-unit-middle {float:left; width:137px; margin-bottom:10px !important /*Non-IE6*/; margin-bottom:5px /*IE6*/; margin-left:40px;}
+.column3-unit-right {float:right; width:137px; margin-bottom:10px !important /*Non-IE6*/; margin-bottom:5px /*IE6*/;}
+
+/* MAIN SUBCONTENT */
+.subcontent-unit-border {width:183px; margin:0 0 2.0em 0; padding:0 0 5px 0; border:solid 1px rgb(190,190,190); background:rgb(235,235,235);}
+.subcontent-unit-border-green {width:183px; margin:0 0 2.5em 0; padding:0 0 10px 0; border:solid 1px rgb(160,214,81); background-color:rgb(217,239,185);}
+.subcontent-unit-border-blue  {width:183px; margin:0 0 2.5em 0; padding:0 0 10px 0; border:solid 1px rgb(137,170,214); background-color:rgb(213,225,240);}
+.subcontent-unit-border-orange {width:183px; margin:0 0 2.5em 0px; padding:0 0 10px 0; border:solid 1px rgb(232,177,13); background-color:rgb(248,224,150);}
+
+.subcontent-unit-noborder {width:185px; margin:0 0 2.5em 0; padding:0 0 10px 0; background:rgb(235,235,235);}
+.subcontent-unit-noborder-green {width:185px; margin:0 0 2.5em 0; padding:0 0 10px 0; background-color:rgb(217,239,185);}
+.subcontent-unit-noborder-blue  {width:185px; margin:0 0 2.5em 0; padding:0 0 10px 0; background-color:rgb(213,225,240);}
+.subcontent-unit-noborder-orange {width:185px; margin:0 0 2.5em 0; padding:0 0 10px 0; background-color:rgb(248,224,150);}
+
+.round-border-topleft {width:10px; height:10px; position:absolute; z-index:100; background:url(../img/bg_corner_topleft.gif) no-repeat; margin-top:-1px; margin-left:-1px;}
+.round-border-topright {width:10px; height:10px; position:absolute; z-index:100; background:url(../img/bg_corner_topright.gif) no-repeat; margin-top:-1px; margin-left:174px;}
+.round-noborder-topleft {
+	width:10px;
+	height:10px;
+	position:absolute;
+	z-index:100;
+	background:url(../img/bg_corner_topleft.gif) no-repeat;
+	margin-top:0px;
+	margin-left:0px;
+	left: 755px;
+	top: 397px;
+}
+.round-noborder-topright {width:10px; height:10px; position:absolute; z-index:100; background:url(../img/bg_corner_topright.gif) no-repeat; margin-top:0px; margin-left:175px;}
+
+/********************/
+/*  FOOTER SECTION  */
+/********************/
+.footer p {line-height:1.3em; text-align:center; color:rgb(125,125,125); font-weight:bold; font-size:110%;}
+.footer p.navigation {font-weight:normal;}
+.footer a {text-decoration:none; color:rgb(125,125,125);}
+.footer a:hover {text-decoration:none; color:rgb(0,0,0);}
+.footer a:visited {color:rgb(0,0,0);}
+
+/******************/
+/*  CLEAR FLOATS  */
+/******************/
+.page-container:after, .header:after, .header-bottom:after, .header-breadcrumbs:after, .main:after, .main-navigation:after, .main-content:after, .main-content div:after, .main-subcontent:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.column1-unit:after, .column2-unit-left:after, .column2-unit-right:after, .column3-unit-left:after, .column3-unit-middle:after, .column3-unit-right:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.subcontent-unit-border:after, .subcontent-unit-noborder:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.subcontent-unit-border-blue:after, .subcontent-unit-border-green:after, .subcontent-unit-border-orange:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.subcontent-unit-noborder-blue:after, .subcontent-unit-noborder-green:after, .subcontent-unit-noborder-orange:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+ p:after {content:"."; display:block; height:0; /*clear:both*/; visibility:hidden;}
+.footer:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.clear-contentunit {clear:both; width:490px; height:0.1em; border:none; background:rgb(210,210,210); color:rgb(210,210,210);}
+
+/********************************/
+/*  PRINTING and MISCELLANEOUS  */
+/********************************/
+@media print {.header-top {width:954px; height:80px; background:rgb(240,240,240); overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}}
+@media print {.breadcrumbs {width:550px; background:transparent;}}
+@media print {.top-nav {float:left; width:954px; border:none; background:rgb(240,240,240); color:rgb(75,75,75); font-size:1.0em; font-size:130%;}} /*Color navigation bar normal mode*/
+@media print {.main {clear:both; width:954px; padding-bottom:30px; background:transparent;}}
+@media print {.main-navigation {display:inline /*Fix IE floating margin bug*/; float:left; width:199px; border-right:solid 1px rgb(200,200,200); border-bottom:solid 1px rgb(200,200,200); background-color:rgb(240,240,240); overflow:visible !important /*Firefox*/; overflow:hidden /*IE*/;}}
+@media print {.footer {clear:both; width:954px; height:3.7em; padding:1.1em 0 0; background:rgb(240,240,240); font-size:1.0em; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}}

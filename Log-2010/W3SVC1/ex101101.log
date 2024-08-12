@@ -1,0 +1,49 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-11-01 18:18:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-11-01 18:18:09 192.168.1.16 GET /enterprise/hibox-email-hosting/ - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 403 14 5
+2010-11-01 18:18:11 192.168.1.16 GET /img/favicon.ico - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:22 192.168.1.16 GET /enterprise/intl-private-lines/index.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 200 0 0
+2010-11-01 18:18:22 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:22 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:22 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:22 192.168.1.16 GET /enterprise/intl-private-lines/main.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:22 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:22 192.168.1.16 GET /enterprise/img/cht_global_logo.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 404 0 3
+2010-11-01 18:18:22 192.168.1.16 GET /enterprise/global-ethernet/index.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:22 192.168.1.16 GET /enterprise/global-ethernet/global-ethernet.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:23 192.168.1.16 GET /enterprise/global-mpls-vpn/index.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:23 192.168.1.16 GET /enterprise/global-mpls-vpn/details.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:23 192.168.1.16 GET /enterprise/global-mpls-vpn/MPLSvsIpSec.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:23 192.168.1.16 GET /enterprise/global-mpls-vpn/cos-diagram.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:24 192.168.1.16 GET /enterprise/dedicated-internet/index.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 200 0 0
+2010-11-01 18:18:24 192.168.1.16 GET /enterprise/dedicated-internet/dedicated-internet.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:24 192.168.1.16 GET /enterprise/idc-hosting/idc-hosting.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 200 0 0
+2010-11-01 18:18:24 192.168.1.16 GET /enterprise/idc-hosting - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 301 0 0
+2010-11-01 18:18:24 192.168.1.16 GET /enterprise/idc-hosting/index.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 200 0 0
+2010-11-01 18:18:25 192.168.1.16 GET /enterprise/cloud-computing/index.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 200 0 0
+2010-11-01 18:18:25 192.168.1.16 GET /enterprise/cloud-computing/cloud-computing.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 200 0 0
+2010-11-01 18:18:25 192.168.1.16 GET /enterprise/cloud-computing - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 301 0 0
+2010-11-01 18:18:31 192.168.1.16 GET /enterprise/cloud-computing/details.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 404 0 2
+2010-11-01 18:18:33 192.168.1.16 GET /enterprise/hibox-email-hosting/ - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 403 14 5
+2010-11-01 18:18:36 192.168.1.16 GET /enterprise/cloud-computing/details.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 404 0 2
+2010-11-01 18:18:39 192.168.1.16 GET /enterprise/hibox-email-hosting/ - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 403 14 5
+2010-11-01 18:18:45 192.168.1.16 GET /about/leadership.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 200 0 0
+2010-11-01 18:18:45 192.168.1.16 GET /css/about_setup.css - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:45 192.168.1.16 GET /about/leadership.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:45 192.168.1.16 GET /css/about_text.css - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+2010-11-01 18:18:55 192.168.1.16 GET /about/leadership.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.10)+Gecko/20100914+BTRS28059+Firefox/3.6.10 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-11-01 20:11:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-11-01 20:11:46 192.168.1.16 GET /enterprise/dedicated-internet - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 301 0 0
+2010-11-01 20:11:46 192.168.1.16 GET /enterprise/dedicated-internet/index.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 200 0 0
+2010-11-01 20:11:46 192.168.1.16 GET /css/enterprise_text.css - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 304 0 0
+2010-11-01 20:11:46 192.168.1.16 GET /css/enterprise_setup.css - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 200 0 0
+2010-11-01 20:11:46 192.168.1.16 GET /enterprise/dedicated-internet/dedicated-internet.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 200 0 0
+2010-11-01 20:11:46 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 304 0 0
+2010-11-01 20:11:46 192.168.1.16 GET /img/network_map_thumb.png - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 304 0 0
+2010-11-01 20:11:48 192.168.1.16 GET /enterprise/dedicated-internet/details.html - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 200 0 0
+2010-11-01 20:11:48 192.168.1.16 GET /enterprise/dedicated-internet/internet-gateway.jpg - 80 - 192.168.1.130 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.7+(KHTML,+like+Gecko)+Chrome/7.0.517.41+Safari/534.7 200 0 0

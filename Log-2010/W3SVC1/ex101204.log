@@ -1,0 +1,548 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 08:17:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 08:17:34 192.168.1.16 GET /index.html - 80 - 211.104.150.236 Mozilla/5.0+(compatible;+OpenfosBot/2.1;++http://www.openfos.com) 200 0 0
+2010-12-04 08:29:10 192.168.1.16 GET /index.html - 80 - 123.125.71.18 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 08:29:38 192.168.1.16 GET /index.html - 80 - 220.181.108.90 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 08:53:41
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 08:53:41 192.168.1.16 GET /enterprise/net2mail-email-hosting/index.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 08:53:41 192.168.1.16 GET /css/enterprise_setup.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 08:53:43 192.168.1.16 GET /css/enterprise_text.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 08:55:02 192.168.1.16 GET /about/news/index.html - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 09:13:36
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 09:13:36 192.168.1.16 GET /enterprise/integrated-voice-data/CHTG_Net2VIP.pdf - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 09:27:23 192.168.1.16 GET /carrier/submarine-cables/ - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2010-12-04 09:29:37 192.168.1.16 GET /index.html - 80 - 123.125.71.15 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 09:30:06 192.168.1.16 GET /index.html - 80 - 220.181.108.88 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 09:34:26 192.168.1.16 GET /index.html - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:29 192.168.1.16 GET /css/main_text.css - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:29 192.168.1.16 GET /css/main_setup.css - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:29 192.168.1.16 GET /img/favicon.ico - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:30 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:33 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:35 192.168.1.16 GET /about/contact.html - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:35 192.168.1.16 GET /css/about_setup.css - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:35 192.168.1.16 GET /css/about_text.css - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:37 192.168.1.16 GET /img/facebook_48.png - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:37 192.168.1.16 GET /img/linkedin_48.png - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:37 192.168.1.16 GET /about/contact.jpg - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:37 192.168.1.16 GET /img/twitter_48.png - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:37 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:37 192.168.1.16 GET /img/youtube_48.png - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:34:40 192.168.1.16 GET /img/network_map_thumb.png - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:35:35 192.168.1.16 GET /about/index.html - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:35:35 192.168.1.16 GET /about/about.jpg - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:37:13 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:37:38 192.168.1.16 GET /about/history.html - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:37:39 192.168.1.16 GET /about/history.jpg - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:37:56 192.168.1.16 GET /about/vision.html - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:37:56 192.168.1.16 GET /about/vision.jpg - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 200 0 0
+2010-12-04 09:38:21 192.168.1.16 GET /favicon.ico - 80 - 202.51.185.51 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.14)+Gecko/20101001+Firefox/3.5.14 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 09:55:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 09:55:08 192.168.1.16 GET /enterprise/global-mpls-vpn - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 301 0 0
+2010-12-04 09:55:08 192.168.1.16 GET /enterprise/global-mpls-vpn/index.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 10:14:51
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 10:14:51 192.168.1.16 GET /enterprise/dedicated-internet/index.html - 80 - 111.70.87.15 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+Jingoo/0.1.4 200 0 0
+2010-12-04 10:14:53 192.168.1.16 GET /css/enterprise_setup.css - 80 - 111.70.87.15 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+Jingoo/0.1.4 200 0 0
+2010-12-04 10:14:53 192.168.1.16 GET /img/favicon.ico - 80 - 111.70.87.15 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+Jingoo/0.1.4 200 0 0
+2010-12-04 10:14:53 192.168.1.16 GET /css/enterprise_text.css - 80 - 111.70.87.15 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+Jingoo/0.1.4 200 0 0
+2010-12-04 10:14:53 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 111.70.87.15 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+Jingoo/0.1.4 200 0 0
+2010-12-04 10:14:53 192.168.1.16 GET /enterprise/dedicated-internet/dedicated-internet.jpg - 80 - 111.70.87.15 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+Jingoo/0.1.4 200 0 0
+2010-12-04 10:14:54 192.168.1.16 GET /img/network_map_thumb.png - 80 - 111.70.87.15 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+Jingoo/0.1.4 200 0 0
+2010-12-04 10:14:54 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 111.70.87.15 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+Jingoo/0.1.4 200 0 0
+2010-12-04 10:16:47 192.168.1.16 GET /residential/net-calling-card - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 301 0 0
+2010-12-04 10:16:47 192.168.1.16 GET /residential/net-calling-card/index.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 10:16:47 192.168.1.16 GET /css/residential_setup.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 10:16:47 192.168.1.16 GET /css/residential_text.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 10:29:12 192.168.1.16 GET /index.html - 80 - 123.125.71.20 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 10:29:40 192.168.1.16 GET /index.html - 80 - 220.181.108.96 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 10:53:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 10:53:37 192.168.1.16 GET /robots.txt - 80 - 72.30.161.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+2010-12-04 10:53:37 192.168.1.16 GET /index.html - 80 - 72.30.161.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 10:53:42 192.168.1.16 GET /css/main_setup.css - 80 - 72.30.161.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 10:53:45 192.168.1.16 GET /css/main_text.css - 80 - 72.30.161.234 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 11:26:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 11:26:26 192.168.1.16 GET /index.html - 80 - 183.16.119.110 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US)+AppleWebKit/533.4+(KHTML,+like+Gecko)+Chrome/5.0.375.125+Safari/533.4 200 0 0
+2010-12-04 11:29:30 192.168.1.16 GET /index.html - 80 - 123.125.71.18 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 11:30:00 192.168.1.16 GET /index.html - 80 - 220.181.108.88 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 12:11:29
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 12:11:29 192.168.1.16 GET /robots.txt - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2010-12-04 12:11:29 192.168.1.16 GET /about/news/tpe-submarine-cable.pdf - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 12:30:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 12:30:11 192.168.1.16 GET /index.html - 80 - 123.125.71.22 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 12:30:40 192.168.1.16 GET /index.html - 80 - 220.181.108.91 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 12:34:56 192.168.1.16 GET /index.html - 80 - 66.249.85.2 Feedfetcher-Google;+(+http://www.google.com/feedfetcher.html;+feed-id=11480473408447364380) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 12:57:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 12:57:53 192.168.1.16 GET /about/careers.html - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 12:57:53 192.168.1.16 GET /css/about_setup.css - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 12:57:53 192.168.1.16 GET /css/about_text.css - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 12:57:53 192.168.1.16 GET /img/favicon.ico - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 12:57:53 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 12:57:53 192.168.1.16 GET /about/about.jpg - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 12:57:53 192.168.1.16 GET /img/network_map_thumb.png - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 12:57:53 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 12:57:54 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 99.164.31.245 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+zh-CN;+rv:1.9.2.12)+Gecko/20101026+BTRS28059+Firefox/3.6.12 200 0 0
+2010-12-04 13:02:08 192.168.1.16 GET /robots.txt - 80 - 207.46.199.37 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-04 13:05:11 192.168.1.16 GET /vip.htm - 80 - 207.46.199.37 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 13:27:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 13:27:57 192.168.1.16 GET /index.html - 80 - 123.125.71.22 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 13:28:25 192.168.1.16 GET /index.html - 80 - 220.181.108.95 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 14:05:58
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 14:05:58 192.168.1.16 GET /robots.txt - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+2010-12-04 14:05:58 192.168.1.16 GET /Rate%20Sheet_LD070109.pdf - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 14:29:39
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 14:29:39 192.168.1.16 GET /index.html - 80 - 123.125.71.18 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 14:30:07 192.168.1.16 GET /index.html - 80 - 220.181.108.82 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 14:30:55 192.168.1.16 GET  /index.php feed=rss2&p=1 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 15:18:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 15:18:27 192.168.1.16 GET  /index.php - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 15:18:27 192.168.1.16 GET  /wp-content/themes/twentyten/style.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 0 0
+2010-12-04 15:18:34 192.168.1.16 POST  /wp-cron.php doing_wp_cron 80 - 192.168.1.222 WordPress/3.0.1;+http://www.chtglobal.com  200 0 64
+2010-12-04 15:21:26 192.168.1.16 GET  /index.php p=26 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 15:27:10 192.168.1.16 GET /about/news/world_journal_20101119.html - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+2010-12-04 15:28:43 192.168.1.16 GET /robots.txt - 80 - 119.63.198.9 Baiduspider+(+http://www.baidu.com/search/spider.htm) 404 0 2
+2010-12-04 15:28:50 192.168.1.16 GET  /index.php feed=rss2 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 15:30:14 192.168.1.16 GET /index.html - 80 - 123.125.71.28 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 15:30:44 192.168.1.16 GET /index.html - 80 - 220.181.108.95 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 15:44:36 192.168.1.16 GET /index.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 15:44:37 192.168.1.16 GET /css/main_setup.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 15:44:37 192.168.1.16 GET /css/main_text.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /about/careers.html - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /img/favicon.ico - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /css/about_text.css - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /css/about_setup.css - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /img/network_map_thumb.png - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:45:48 192.168.1.16 GET /about/about.jpg - 80 - 24.5.57.33 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.1.15)+Gecko/20101026+Firefox/3.5.15 200 0 0
+2010-12-04 15:49:00 192.168.1.16 GET /robots.txt - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 404 0 2
+2010-12-04 15:49:00 192.168.1.16 GET /enterprise/about/contact.html - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 404 0 3
+2010-12-04 16:01:09 192.168.1.16 GET /index.html - 80 - 124.115.0.104 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0
+2010-12-04 16:04:27 192.168.1.16 GET   - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 301 0 0
+2010-12-04 16:08:57 192.168.1.16 GET  /index.php author=1 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 16:23:57 192.168.1.16 GET /about/news/world_journal_20101119.html - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 200 0 0
+2010-12-04 16:39:28 192.168.1.16 HEAD /index.html - 80 - 67.202.18.193 Mozilla/5.0+(compatible;+NetcraftSurveyAgent/1.0;++info@netcraft.com) 200 0 0
+2010-12-04 16:43:10 192.168.1.16 GET /index.html - 80 - 123.125.71.27 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 16:43:54 192.168.1.16 GET /index.html - 80 - 220.181.108.97 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 16:47:50 192.168.1.16 GET  /index.php p=32 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 16:47:50 192.168.1.16 GET  /wp-content/themes/twentyten/style.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 16:50:56 192.168.1.16 GET /index.html - 80 - 123.49.42.131 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.4;+InfoPath.2) 200 0 0
+2010-12-04 16:50:58 192.168.1.16 GET /css/main_text.css - 80 - 123.49.42.131 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.4;+InfoPath.2) 200 0 0
+2010-12-04 16:50:58 192.168.1.16 GET /css/main_setup.css - 80 - 123.49.42.131 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.4;+InfoPath.2) 200 0 0
+2010-12-04 16:50:58 192.168.1.16 GET /css/main_text.css - 80 - 123.49.42.131 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.4;+InfoPath.2) 200 0 0
+2010-12-04 16:50:58 192.168.1.16 GET /css/main_setup.css - 80 - 123.49.42.131 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.4;+InfoPath.2) 200 0 0
+2010-12-04 16:51:00 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 123.49.42.131 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.4;+InfoPath.2) 200 0 0
+2010-12-04 16:51:12 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 123.49.42.131 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+GTB6.4;+InfoPath.2) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 17:18:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 17:18:35 192.168.1.16 GET /corporate/job.asp - 80 - 75.101.224.228 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.1.3)+Gecko/20090824+Firefox/3.5.3+(LinkUp) 404 0 3
+2010-12-04 17:21:33 192.168.1.16 GET /index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:33 192.168.1.16 GET /sitemap.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:38 192.168.1.16 GET /about - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:38 192.168.1.16 GET /about/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:38 192.168.1.16 GET /about/careers.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:40 192.168.1.16 GET /about/careers.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:40 192.168.1.16 GET /about/contact.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:42 192.168.1.16 GET /about/contact.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:42 192.168.1.16 GET /about/history.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:42 192.168.1.16 GET /about/vision.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:42 192.168.1.16 GET   - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:45 192.168.1.16 GET  /index.php - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:46 192.168.1.16 GET   - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:46 192.168.1.16 GET  /index.php - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:46 192.168.1.16 GET /carrier - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:46 192.168.1.16 GET /carrier/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:48 192.168.1.16 GET /enterprise - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:48 192.168.1.16 GET /enterprise/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:48 192.168.1.16 GET /residential - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:48 192.168.1.16 GET /residential/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:49 192.168.1.16 GET /img/facebook_48.png - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:49 192.168.1.16 GET /img/linkedin_48.png - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:49 192.168.1.16 GET /img/twitter_48.png - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:49 192.168.1.16 GET /img/youtube_48.png - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:49 192.168.1.16 GET  /wp-login.php - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:50 192.168.1.16 GET  /xmlrpc.php - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:50 192.168.1.16 GET /about/news - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:50 192.168.1.16 GET /about/news/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:52 192.168.1.16 GET /about/news - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:52 192.168.1.16 GET /about/news/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:52 192.168.1.16 GET /carrier/data-wholesale - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:52 192.168.1.16 GET /carrier/data-wholesale/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:53 192.168.1.16 GET /carrier/voice-wholesale - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:53 192.168.1.16 GET /carrier/voice-wholesale/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:53 192.168.1.16 GET /carrier/sitemap.html - 80 - 207.182.146.170 Java/1.6.0_04 404 0 2
+2010-12-04 17:21:53 192.168.1.16 GET /enterprise/cloud-computing - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:53 192.168.1.16 GET /enterprise/cloud-computing/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:54 192.168.1.16 GET /enterprise/dedicated-internet - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:54 192.168.1.16 GET /enterprise/dedicated-internet/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:54 192.168.1.16 GET /enterprise/global-ethernet - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:54 192.168.1.16 GET /enterprise/global-ethernet/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:55 192.168.1.16 GET /enterprise/sitemap.html - 80 - 207.182.146.170 Java/1.6.0_04 404 0 2
+2010-12-04 17:21:55 192.168.1.16 GET /enterprise/global-ez-vpn - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:55 192.168.1.16 GET /enterprise/global-ez-vpn/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:21:55 192.168.1.16 GET /enterprise/global-mpls-vpn - 80 - 207.182.146.170 Java/1.6.0_04 301 0 0
+2010-12-04 17:21:55 192.168.1.16 GET /enterprise/global-mpls-vpn/index.html - 80 - 207.182.146.170 Java/1.6.0_04 200 0 0
+2010-12-04 17:30:49 192.168.1.16 GET /index.html - 80 - 123.125.71.32 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 17:31:19 192.168.1.16 GET /index.html - 80 - 220.181.108.75 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 17:32:24 192.168.1.16 GET /enterprise/dedicated-internet/details.html - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 18:00:44
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 18:00:44 192.168.1.16 GET /carrier/sitemap.html - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 404 0 2
+2010-12-04 18:10:37 192.168.1.16 GET /index.html - 80 - 66.249.85.2 Feedfetcher-Google;+(+http://www.google.com/feedfetcher.html;+feed-id=11480473408447364380) 200 0 0
+2010-12-04 18:11:32 192.168.1.16 GET /about/careers.html - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:32 192.168.1.16 GET /css/about_setup.css - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:32 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:32 192.168.1.16 GET /css/about_text.css - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:32 192.168.1.16 GET /about/about.jpg - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:34 192.168.1.16 GET /img/favicon.ico - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:35 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:35 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:35 192.168.1.16 GET /img/network_map_thumb.png - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:35 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+2010-12-04 18:11:36 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 99.198.37.87 Opera/9.80+(Windows+NT+6.1;+U;+en)+Presto/2.6.30+Version/10.63 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 18:29:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 18:29:48 192.168.1.16 GET /index.html - 80 - 123.125.71.13 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 18:30:18 192.168.1.16 GET /index.html - 80 - 220.181.108.89 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 18:39:14 192.168.1.16 GET /enterprise/dedicated-internet/details.html - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 200 0 0
+2010-12-04 18:42:25 192.168.1.16 GET /about/leadership.html - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 19:16:13
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 19:16:13 192.168.1.16 GET /index.html - 80 - 211.104.150.236 Mozilla/5.0+(compatible;+OpenfosBot/2.1;++http://www.openfos.com) 200 0 0
+2010-12-04 19:27:43 192.168.1.16 GET /carrier/about/contact.html - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 404 0 3
+2010-12-04 19:28:45 192.168.1.16 GET /index.html - 80 - 123.125.71.25 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 19:28:45 192.168.1.16 GET /robots.txt - 80 - 69.28.58.4 HuaweiSymantecSpider/1.0+DSE-support@huaweisymantec.com+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+;+http://www.huaweisymantec.com/en/IRL/spider) 404 0 2
+2010-12-04 19:28:45 192.168.1.16 GET /index.html - 80 - 69.28.58.4 HuaweiSymantecSpider/1.0+DSE-support@huaweisymantec.com+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.4506.2152;+.NET+CLR+;+http://www.huaweisymantec.com/en/IRL/spider) 200 0 0
+2010-12-04 19:29:14 192.168.1.16 GET /index.html - 80 - 220.181.108.91 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 20:06:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 20:06:24 192.168.1.16 GET /robots.txt - 80 - 202.160.180.77 Mozilla/5.0+(compatible;+Yahoo!+Slurp+China;+http://misc.yahoo.com.cn/help.html) 404 0 2
+2010-12-04 20:06:27 192.168.1.16 GET /index.html - 80 - 202.160.188.209 Mozilla/5.0+(compatible;+Yahoo!+Slurp+China;+http://misc.yahoo.com.cn/help.html) 200 0 0
+2010-12-04 20:17:12 192.168.1.16 GET  /index.php m=201011 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-04 20:17:12 192.168.1.16 GET  /wp-content/themes/twentyten/style.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 304 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /about/careers.html - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /img/favicon.ico - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /css/about_text.css - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /css/about_setup.css - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /img/network_map_thumb.png - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:18:21 192.168.1.16 GET /about/about.jpg - 80 - 76.21.124.255 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12+(+.NET+CLR+3.5.30729) 200 0 0
+2010-12-04 20:28:56 192.168.1.16 GET /index.html - 80 - 123.125.71.31 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 20:29:35 192.168.1.16 GET /index.html - 80 - 220.181.108.82 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 20:58:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 20:58:06 192.168.1.16 GET /enterprise/hibox-email-hosting/ - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 404 0 2
+2010-12-04 21:06:22 192.168.1.16 GET /about/careers.html - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-04 21:06:22 192.168.1.16 GET /css/about_setup.css - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-04 21:06:22 192.168.1.16 GET /css/about_text.css - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-04 21:06:22 192.168.1.16 GET /img/favicon.ico - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-04 21:06:23 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-04 21:06:23 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-04 21:06:23 192.168.1.16 GET /img/network_map_thumb.png - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-04 21:06:23 192.168.1.16 GET /about/about.jpg - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+2010-12-04 21:06:23 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 75.18.167.101 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US;+rv:1.9.2.12)+Gecko/20101026+Firefox/3.6.12 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 21:29:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 21:29:28 192.168.1.16 GET /index.html - 80 - 123.125.71.20 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 21:29:56 192.168.1.16 GET /index.html - 80 - 220.181.108.86 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 21:38:16 192.168.1.16 GET /carrier/submarine-cables/ - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 404 0 2
+2010-12-04 21:40:55 192.168.1.16 GET /enterprise/sitemap.html - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 404 0 2
+2010-12-04 21:46:33 192.168.1.16 GET /robots.txt - 80 - 207.46.199.53 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-04 21:48:16 192.168.1.16 GET /iplc.htm - 80 - 207.46.199.53 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-04 21:56:01 192.168.1.16 GET /enterprise/toll-free-conferencing/details.html - 80 - 38.108.67.15 SBIder/Nutch-1.0-dev+(http://www.sitesell.com/sbider.html) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 22:28:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 22:28:53 192.168.1.16 GET /index.html - 80 - 123.125.71.14 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 22:29:22 192.168.1.16 GET /index.html - 80 - 220.181.108.89 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 22:30:04 192.168.1.16 GET /index.html - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 304 0 0
+2010-12-04 22:44:58 192.168.1.16 GET /phonecard.htm - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 23:29:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 23:29:54 192.168.1.16 GET /index.html - 80 - 123.125.71.36 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-04 23:30:24 192.168.1.16 GET /index.html - 80 - 220.181.108.94 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-04 23:50:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-04 23:50:43 192.168.1.16 GET /robots.txt - 80 - 202.130.173.187 ruijie+(larbin@unspecified.mail) 404 0 2
+2010-12-04 23:50:49 192.168.1.16 GET /index.html - 80 - 202.130.173.187 ruijie+larbin@unspecified.mail 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 00:29:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 00:29:18 192.168.1.16 GET /index.html - 80 - 123.125.71.19 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 00:29:46 192.168.1.16 GET /index.html - 80 - 220.181.108.83 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 00:40:17 192.168.1.16 GET /about/careers.html - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 200 0 0
+2010-12-05 00:40:17 192.168.1.16 GET /css/about_setup.css - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 200 0 0
+2010-12-05 00:40:17 192.168.1.16 GET /css/about_text.css - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 200 0 0
+2010-12-05 00:40:17 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 200 0 0
+2010-12-05 00:40:17 192.168.1.16 GET /img/network_map_thumb.png - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 200 0 0
+2010-12-05 00:40:17 192.168.1.16 GET /about/about.jpg - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 200 0 0
+2010-12-05 00:40:17 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 200 0 0
+2010-12-05 00:40:18 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 200 0 0
+2010-12-05 00:40:20 192.168.1.16 GET /favicon.ico - 80 - 24.6.187.160 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+WOW64;+Trident/4.0;+GTB6.5;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+eSobiSubscriber+2.0.4.16;+.NET+CLR+3.5.30729;+InfoPath.1;+.NET+CLR+3.0.30729;+OfficeLiveConnector.1.5;+OfficeLivePatch.1.3;+.NET4.0C) 404 0 2
+2010-12-05 00:43:52 192.168.1.16 GET /index.html - 80 - 124.115.0.103 Sosospider+(+http://help.soso.com/webspider.htm) 304 0 0
+2010-12-05 00:44:58 192.168.1.16 GET /enterprise/long-distance-voice/details.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 00:44:58 192.168.1.16 GET /css/enterprise_setup.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 00:44:59 192.168.1.16 GET /css/enterprise_text.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 00:59:34 192.168.1.16 GET /enterprise/toll-free-conferencing/details.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 01:29:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 01:29:24 192.168.1.16 GET /index.html - 80 - 208.80.194.37 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+6.0;+FunWebProducts;+SLCC1;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.04506;+SpamBlockerUtility+4.8.4) 200 0 0
+2010-12-05 01:29:24 192.168.1.16 GET /index.html - 80 - 208.80.194.37 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+Maxthon;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+.NET+CLR+2.0.50727;+InfoPath.1;+IEMB3;+IEMB3) 200 0 0
+2010-12-05 01:32:25 192.168.1.16 GET /index.html - 80 - 123.125.71.36 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 01:32:58 192.168.1.16 GET /index.html - 80 - 220.181.108.96 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 01:33:18 192.168.1.16 GET /about/careers.html - 80 - 24.4.96.83 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+.NET4.0C) 200 0 0
+2010-12-05 01:33:18 192.168.1.16 GET /css/about_setup.css - 80 - 24.4.96.83 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+.NET4.0C) 200 0 0
+2010-12-05 01:33:18 192.168.1.16 GET /css/about_text.css - 80 - 24.4.96.83 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+.NET4.0C) 200 0 0
+2010-12-05 01:33:18 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 24.4.96.83 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+.NET4.0C) 200 0 0
+2010-12-05 01:33:18 192.168.1.16 GET /about/about.jpg - 80 - 24.4.96.83 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+.NET4.0C) 200 0 0
+2010-12-05 01:33:18 192.168.1.16 GET /img/network_map_thumb.png - 80 - 24.4.96.83 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+.NET4.0C) 200 0 0
+2010-12-05 01:33:18 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 24.4.96.83 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+.NET4.0C) 200 0 0
+2010-12-05 01:33:18 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 24.4.96.83 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.0;+Trident/4.0;+SLCC1;+.NET+CLR+2.0.50727;+Media+Center+PC+5.0;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729;+.NET4.0C) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 02:13:08
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 02:13:08 192.168.1.16 GET /intlaudioconf_rate.htm - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 02:30:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 02:30:00 192.168.1.16 GET /index.html - 80 - 123.125.71.21 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 02:30:31 192.168.1.16 GET /index.html - 80 - 220.181.108.81 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 02:48:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 02:48:24 192.168.1.16 GET /enterprise/long-distance-voice/Rate%20Sheet_LD070109.pdf - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 03:24:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 03:24:42 192.168.1.16 GET /index.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:42 192.168.1.16 GET /css/main_setup.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:42 192.168.1.16 GET /css/main_text.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:42 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:46 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:46 192.168.1.16 GET /favicon.ico - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 404 0 2
+2010-12-05 03:24:58 192.168.1.16 GET /about/contact.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:58 192.168.1.16 GET /css/about_setup.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:58 192.168.1.16 GET /css/about_text.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:58 192.168.1.16 GET /about/contact.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:58 192.168.1.16 GET /img/linkedin_48.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:58 192.168.1.16 GET /img/facebook_48.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:58 192.168.1.16 GET /img/youtube_48.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:58 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:58 192.168.1.16 GET /img/network_map_thumb.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:24:59 192.168.1.16 GET /img/twitter_48.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:25:00 192.168.1.16 GET /favicon.ico - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 404 0 2
+2010-12-05 03:25:06 192.168.1.16 GET /about/careers.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:25:06 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:25:06 192.168.1.16 GET /about/about.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:29:28 192.168.1.16 GET /index.html - 80 - 123.125.71.19 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 03:29:58 192.168.1.16 GET /index.html - 80 - 220.181.108.96 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 03:48:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 03:48:47 192.168.1.16 GET /about/vision.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:48:47 192.168.1.16 GET /about/vision.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:50:10 192.168.1.16 GET /about/history.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:50:10 192.168.1.16 GET /about/history.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:50:55 192.168.1.16 GET /about/news/index.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:50:55 192.168.1.16 GET /about/news/news.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 200 0 0
+2010-12-05 03:58:08 192.168.1.16 GET /robots.txt - 80 - 207.46.13.46 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-05 04:03:15 192.168.1.16 GET /CHTG_Net2VIP.pdf - 80 - 207.46.13.46 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-05 04:04:22 192.168.1.16 GET /index.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:04:22 192.168.1.16 GET /css/main_setup.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:04:22 192.168.1.16 GET /css/main_setup.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:04:22 192.168.1.16 GET /css/main_text.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:04:22 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:04:22 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /about/contact.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /css/about_setup.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /css/about_text.css - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /about/contact.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /img/linkedin_48.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /img/twitter_48.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /img/facebook_48.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /img/youtube_48.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:09 192.168.1.16 GET /img/network_map_thumb.png - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:18 192.168.1.16 GET /about/careers.html - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:18 192.168.1.16 GET /about/about.jpg - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+2010-12-05 04:05:18 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 99.66.144.194 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+.NET+CLR+2.0.50727;+InfoPath.1) 304 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 04:29:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 04:29:15 192.168.1.16 GET /index.html - 80 - 123.125.71.33 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 04:29:44 192.168.1.16 GET /index.html - 80 - 220.181.108.91 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 04:42:04 192.168.1.16 GET /about/careers.html - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:42:04 192.168.1.16 GET /css/about_setup.css - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:42:04 192.168.1.16 GET /css/about_text.css - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:42:04 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:42:05 192.168.1.16 GET /about/about.jpg - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:42:05 192.168.1.16 GET /img/network_map_thumb.png - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:42:05 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:42:05 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:42:06 192.168.1.16 GET /favicon.ico - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 404 0 2
+2010-12-05 04:46:55 192.168.1.16 GET /favicon.ico - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 404 0 2
+2010-12-05 04:46:59 192.168.1.16 GET /index.html - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:46:59 192.168.1.16 GET /css/main_text.css - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:46:59 192.168.1.16 GET /css/main_setup.css - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:47:02 192.168.1.16 GET /img/cht-global-infrastructure-main.jpg - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:48:06 192.168.1.16 GET /about/contact.html - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:48:06 192.168.1.16 GET /img/linkedin_48.png - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:48:06 192.168.1.16 GET /img/facebook_48.png - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:48:06 192.168.1.16 GET /img/youtube_48.png - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:48:06 192.168.1.16 GET /about/contact.jpg - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:48:06 192.168.1.16 GET /img/twitter_48.png - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 200 0 0
+2010-12-05 04:49:16 192.168.1.16 GET /about/careers.html - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 304 0 0
+2010-12-05 04:49:16 192.168.1.16 GET /css/about_text.css - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 304 0 0
+2010-12-05 04:49:16 192.168.1.16 GET /css/about_setup.css - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 304 0 0
+2010-12-05 04:49:16 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 304 0 0
+2010-12-05 04:49:16 192.168.1.16 GET /about/about.jpg - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 304 0 0
+2010-12-05 04:49:16 192.168.1.16 GET /img/network_map_thumb.png - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 304 0 0
+2010-12-05 04:49:16 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 304 0 0
+2010-12-05 04:49:16 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 69.236.161.27 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+5.1;+Trident/4.0;+AT&T+CSM8.0;+YPC+3.2.0;+FunWebProducts;+GTB0.0;+ATC/1.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+Media+Center+PC+4.0;+ATC/1.0;+yie8;+yie8) 304 0 0
+2010-12-05 04:57:38 192.168.1.16 GET /about/careers.html - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-05 04:57:38 192.168.1.16 GET /css/about_setup.css - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-05 04:57:38 192.168.1.16 GET /css/about_text.css - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-05 04:57:38 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-05 04:57:38 192.168.1.16 GET /about/about.jpg - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-05 04:57:38 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-05 04:57:38 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-05 04:57:39 192.168.1.16 GET /img/network_map_thumb.png - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 200 0 0
+2010-12-05 04:57:41 192.168.1.16 GET /favicon.ico - 80 - 98.248.25.168 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+5.1;+GTB6;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.50727;+.NET+CLR+1.0.3705;+.NET+CLR+3.0.04506.648;+.NET+CLR+3.5.21022;+.NET+CLR+3.0.4506.2152;+.NET+CLR+3.5.30729;+MSN+Optimized;US) 404 0 2
+2010-12-05 05:01:41 192.168.1.16 GET /index.html - 80 - 211.104.150.236 Mozilla/5.0+(compatible;+OpenfosBot/2.1;++http://www.openfos.com) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 05:29:26
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 05:29:26 192.168.1.16 GET /index.html - 80 - 123.125.71.18 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 05:29:56 192.168.1.16 GET /index.html - 80 - 220.181.108.96 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 05:43:00 192.168.1.16 GET /robots.txt - 80 - 207.46.199.43 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-05 05:43:58 192.168.1.16 GET /robots.txt - 80 - 61.247.204.39 Yeti/1.0+(NHN+Corp.;+http://help.naver.com/robots/) 404 0 2
+2010-12-05 05:43:58 192.168.1.16 GET /index.html - 80 - 61.247.204.39 Yeti/1.0+(NHN+Corp.;+http://help.naver.com/robots/) 200 0 0
+2010-12-05 05:44:23 192.168.1.16 GET /css/main_setup.css - 80 - 61.247.204.44 Yeti/1.0+(NHN+Corp.;+http://help.naver.com/robots/) 200 0 0
+2010-12-05 05:44:23 192.168.1.16 GET /robots.txt - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 404 0 2
+2010-12-05 05:44:27 192.168.1.16 GET  /index.php page_id=2 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 05:44:27 192.168.1.16 GET  /wp-content/themes/twentyten/style.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 05:44:33 192.168.1.16 GET /css/main_text.css - 80 - 61.247.204.46 Yeti/1.0+(NHN+Corp.;+http://help.naver.com/robots/) 200 0 0
+2010-12-05 05:44:33 192.168.1.16 POST  /wp-cron.php doing_wp_cron 80 - 192.168.1.222 WordPress/3.0.1;+http://www.chtglobal.com  200 0 0
+2010-12-05 05:50:40 192.168.1.16 GET /idc.htm - 80 - 207.46.199.43 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-05 05:54:34 192.168.1.16 GET  /index.php p=1 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 06:00:45 192.168.1.16 GET /satellite.htm - 80 - 207.46.13.49 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-05 06:02:13 192.168.1.16 GET /sitemap.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 06:02:15 192.168.1.16 GET /css/main_setup.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 06:02:15 192.168.1.16 GET /css/main_text.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 06:19:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 06:19:23 192.168.1.16 GET /robots.txt - 80 - 66.249.67.42 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 404 0 2
+2010-12-05 06:19:25 192.168.1.16 GET  /index.php p=32 80 - 66.249.68.11 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) 200 0 0
+2010-12-05 06:29:25 192.168.1.16 GET /index.html - 80 - 123.125.71.33 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 06:29:55 192.168.1.16 GET /index.html - 80 - 220.181.108.78 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 06:51:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 06:51:12 192.168.1.16 GET /robots.txt - 80 - 65.52.110.65 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+2010-12-05 06:52:44 192.168.1.16 GET /dia.htm - 80 - 65.52.110.65 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 07:18:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 07:18:43 192.168.1.16 GET /index.html - 80 - 207.46.195.233 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 304 0 0
+2010-12-05 07:29:18 192.168.1.16 GET /index.html - 80 - 123.125.71.16 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 07:29:49 192.168.1.16 GET /index.html - 80 - 220.181.108.92 Baiduspider+(+http://www.baidu.com/search/spider.htm) 200 0 0
+2010-12-05 07:34:13 192.168.1.16 GET /CHTG_EntLD.pdf - 80 - 207.46.13.40 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) 404 0 2
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2010-12-05 07:52:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status 
+2010-12-05 07:52:49 192.168.1.16 GET /carrier/data-wholesale/index.html - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 07:52:49 192.168.1.16 GET /css/carrier_setup.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 07:52:50 192.168.1.16 GET /css/carrier_text.css - 80 - 67.195.111.155 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) 200 0 0
+2010-12-05 07:56:11 192.168.1.16 GET /about/careers.html - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:56:11 192.168.1.16 GET /css/about_text.css - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:56:11 192.168.1.16 GET /css/about_setup.css - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:56:11 192.168.1.16 GET /img/cht_global_logo.jpg - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:56:11 192.168.1.16 GET /about/about.jpg - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:56:11 192.168.1.16 GET /img/bg_bullet_full_1.gif - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:56:11 192.168.1.16 GET /img/network_map_thumb.png - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:56:11 192.168.1.16 GET /img/bg_bullet_arrow.gif - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:56:13 192.168.1.16 GET /favicon.ico - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 404 0 2
+2010-12-05 07:57:14 192.168.1.16 GET /about/contact.html - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:57:14 192.168.1.16 GET /about/contact.jpg - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:57:14 192.168.1.16 GET /img/facebook_48.png - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:57:14 192.168.1.16 GET /img/youtube_48.png - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:57:14 192.168.1.16 GET /img/twitter_48.png - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:57:14 192.168.1.16 GET /img/linkedin_48.png - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 200 0 0
+2010-12-05 07:57:15 192.168.1.16 GET /favicon.ico - 80 - 75.36.169.6 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+GTB6.5;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0;+.NET4.0C) 404 0 2
